@@ -12,3 +12,4 @@ passwd.close
 
 puts "Biggest value = #{max}"
 puts "Next free = #{max+1}"
+  
